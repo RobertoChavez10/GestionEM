@@ -1,4 +1,4 @@
-# Sitio Gestion
+# Gestión equipos médicos
 Sistema de Gestión equipos biomédicos y electrónicos
 
 // Iniciar el servidor
